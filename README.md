@@ -33,7 +33,7 @@ for i in range(10):
 
 # Display an image
 
-![Nice Image](.//Images/Emerging-job-roles-in-artificial-intelligence.jpg)
+![Nice Image](https://www.plm.automation.siemens.com/media/global/fr/Artificial-Intelligence-AI-Automotive-AT_tcm55-91268.jpg)
 
 # Build Tables
 
